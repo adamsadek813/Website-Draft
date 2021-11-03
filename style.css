@@ -1,0 +1,35 @@
+
+
+body {
+background-color: paleturquoise;
+margin: auto;
+width: 1000px;
+}
+
+div.skills {
+
+}
+
+div.items {
+display: inline-block;
+vertical-align: top;
+}
+
+li {
+list-style-type: none;
+padding-top: 7px;
+padding-bottom: 15px;
+}
+
+body > main > article > section.side_panel{
+width: 250px;
+position: absolute;
+margin-top: 0px;
+margin-left: 0px;
+}
+
+body > main > article > section.main_body {
+width: 700px;
+position: absolute;
+margin-left: 300px;
+}
